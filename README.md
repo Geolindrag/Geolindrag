@@ -1,4 +1,4 @@
-- ehh, Im just lost and dont know how to code at all
+- ehh, im kinda lost, the most i can do is a c# console app
 
 <!---
 Geolindrag/Geolindrag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
